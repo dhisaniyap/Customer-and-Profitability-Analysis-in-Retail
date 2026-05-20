@@ -1,4 +1,4 @@
-Customer and Profitability Analysis in E-commerce
+Customer and Profitability Analysis in Retail
 
 Project Overview:
 
